@@ -1,0 +1,105 @@
+{
+  "project_info": {
+    "project_number": "886948187248",
+    "project_id": "twow-7fee3",
+    "storage_bucket": "twow-7fee3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:886948187248:android:7f3d198dfcb775cc0178b5",
+        "android_client_info": {
+          "package_name": "com.example.sntat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHITEC41qM-JRNTa3HVgfb8hnZ0Uf95ic"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:886948187248:android:06c21e3b1b0221020178b5",
+        "android_client_info": {
+          "package_name": "com.example.sntattype"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHITEC41qM-JRNTa3HVgfb8hnZ0Uf95ic"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:886948187248:android:f654f3be00568f710178b5",
+        "android_client_info": {
+          "package_name": "com.example.taxi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHITEC41qM-JRNTa3HVgfb8hnZ0Uf95ic"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:886948187248:android:8b5ebca3ac8d2e100178b5",
+        "android_client_info": {
+          "package_name": "com.example.taxi2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHITEC41qM-JRNTa3HVgfb8hnZ0Uf95ic"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:886948187248:android:81d3fcc7922ec7b40178b5",
+        "android_client_info": {
+          "package_name": "com.example.texi2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHITEC41qM-JRNTa3HVgfb8hnZ0Uf95ic"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
